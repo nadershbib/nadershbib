@@ -12,12 +12,12 @@ how all these technologies and tools interact with each other.
    in the input using Google API, and it dynamically display different weather icons depending on the actual city temperature.
 </p>
 
-<a href="https://github.com/nadershbib/weather-app" style="font-size:30px">CHILL FLIX</a>
+<a href="https://github.com/nadershbib/Chill-Flix" style="font-size:30px">CHILL FLIX</a>
 
 <p>This Movie application will display in the main home page the most popular movies out there with their current rating and it lets you search your favorite movie from the input or any movie starting with whatever you have in the actual input search field. Moreover, when hovering the cursor on a movie an overview(what's the movie about) of the actual movie will be shown. CHILL FLIX is responsive on all available devices and tabs. </p>
 
 
+<a href="https://github.com/nadershbib/poke-catcher" style="font-size:30px">POKE CATCHER</a>
 
-
-
+<p>This application displays a random pokemon showing it's different stats dynamically with the help of the public Poke API.</p>
 
