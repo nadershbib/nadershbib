@@ -21,3 +21,11 @@ how all these technologies and tools interact with each other.
 
 <p>This application displays a random pokemon showing it's different stats dynamically with the help of the public Poke API.</p>
 
+
+
+<a href="https://github.com/nadershbib/todoAppAuth" style="font-size:30px">Your Todos</a>
+
+<p>This full stack application mainly aims to let the users when they login with their Gmail account using Firebase auth to add,read,update, and delete Todos tasks. Moreover, everytime a todo task is added it gets displayed with the actual date and time it has been created and gets stored in the firebase database.</p>
+
+
+
