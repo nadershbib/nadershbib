@@ -6,15 +6,15 @@ how all these technologies and tools interact with each other.
 
 <h1>Projects Overview </h1>
 
-<a href="https://github.com/nadershbib/weather-app">Weather App</a>
-<p>At the time I was learning about API requests I thought that it was a great idea to create a weather app to apply what I have been learning.
-   In this application I am fethcing live weather data from the free public OpenWeatherMap API, integrating Autocomplete Cities functionality
-   in the input using Google API, and I managed to display weather icons dynamically depending on the actual city temperature.
+<a href="https://github.com/nadershbib/weather-app" style="font-size:30px">Weather App</a>
+<p>This project aims to retrieve live weather temperature of any city in the world.
+   This application fetches live weather data from the free public OpenWeatherMap API, uses Autocomplete Cities functionality
+   in the input using Google API, and it dynamically display different weather icons depending on the actual city temperature.
 </p>
 
+<a href="https://github.com/nadershbib/weather-app" style="font-size:30px">CHILL FLIX</a>
 
-
-
+<p>This Movie application will display in the main home page the most popular movies out there with their current rating and it lets you search your favorite movie from the input or any movie starting with whatever you have in the actual input search field. Moreover, when hovering the cursor on a movie an overview(what's the movie about) of the actual movie will be shown. CHILL FLIX is responsive on all available devices and tabs. </p>
 
 
 
