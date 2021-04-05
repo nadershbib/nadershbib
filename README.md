@@ -28,4 +28,5 @@ how all these technologies and tools interact with each other.
 <p>This full stack application mainly aims to let the users when they login with their Gmail account using Firebase auth to add,read,update, and delete Todos tasks. Moreover, everytime a todo task is added it gets displayed with the actual date and time it has been created and gets stored in the firebase database.</p>
 
 
-
+<a href="https://github.com/nadershbib/hotelsFinderUI" style="font-size:30px">Hotel Finder</a>
+<p>This full stack application is created with the aim of letting users to enter different Hotels names and to be able to add reviews and rate them. Everything is being stored in a SQL database.</p>
