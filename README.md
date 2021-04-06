@@ -34,4 +34,5 @@ how all these technologies and tools interact with each other.
 <a href="https://github.com/nadershbib/hotelsFinderUI" style="font-size:30px">Netflix Clone</a>
 <p>Netflix user interface clone with real live data of the movies with the help of the TMDB API and when clicking on any of the netflix originals a trailer of the actual movie will pop up.</p>
 
-
+<h1>Connect with me</h1>
+<img src="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x.png" width="150px" />
