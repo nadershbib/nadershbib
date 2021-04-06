@@ -30,3 +30,8 @@ how all these technologies and tools interact with each other.
 
 <a href="https://github.com/nadershbib/hotelsFinderUI" style="font-size:30px">Hotel Finder</a>
 <p>This full stack application is created with the aim of letting users to enter different Hotels names and to be able to add reviews and rate them. Everything is being stored in a SQL database.</p>
+
+<a href="https://github.com/nadershbib/hotelsFinderUI" style="font-size:30px">Netflix Clone</a>
+<p>Netflix user interface clone with real live data of the movies with the help of the TMDB API and when clicking on any of the netflix originals a trailer of the actual movie will pop up.</p>
+
+
