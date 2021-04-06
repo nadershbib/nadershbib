@@ -1,5 +1,5 @@
 <h1>About me</h1>
-<p> Hello there 👋 I am a certified Front End Developer from CodeXAcademy.I am mainly skilled in building clean User Interfaces technologies like Html,Css,JavaScript and JavaScript front end frameworks like React and building Rest APIS using NodeJs,Express. Currently learning TypeORM integrated with SQL database.   
+<p> Hello there 👋 I am Nader, a Frontend Developer with passions for clean user interface design and flawless user experiences across all devices. I'm skilled in building out applications with a modern JavaScript stack utilizing React on the frontend, and Node + Express on the backend. I'm currently working on integrating TypeORM with a SQL database. I'm always looking to connect and collaborate on projects.   
 </p>
 
 <h1>Projects Overview </h1>
