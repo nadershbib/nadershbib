@@ -1,7 +1,5 @@
 <h1>About me</h1>
-<p> Hello there 👋 I am a certified Front End Developer from CodeXAcademy who's highly passionate about developing web applications and learning new technologies. 
-Throughout my journey I have been learning many different web technologies and integrating them into my projects, and It fascinates me seeing
-how all these technologies and tools interact with each other.
+<p> Hello there 👋 I am a certified Front End Developer from CodeXAcademy.I am mainly skilled in building clean User Interfaces technologies like Html,Css,JavaScript and JavaScript front end frameworks like React and building Rest APIS using NodeJs,Express. Currently learning TypeORM integrated with SQL database.   
 </p>
 
 <h1>Projects Overview </h1>
