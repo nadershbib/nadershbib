@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="567" height="220" viewBox="0 0 567 220" role="img" aria-label="Mixed reality engineering illustration">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08101f"/><stop offset="0.54" stop-color="#10182e"/><stop offset="1" stop-color="#17122d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#50e1ff"/><stop offset="0.5" stop-color="#7da0ff"/><stop offset="1" stop-color="#b67aff"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d8ff"/><stop offset="1" stop-color="#756bff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#488af8" stop-opacity="0.22"/><stop offset="1" stop-color="#488af8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#6784b5" stroke-opacity=".13" stroke-width="1"/></pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  <style><![CDATA[
+    text {font-family: Inter, 'Segoe UI', Arial, sans-serif;}
+    .mono {font-family: 'DejaVu Sans Mono', Consolas, monospace;}
+  ]]></style>
+</defs>
+<rect width="567" height="220" rx="15" fill="url(#bg)"/>
+<rect width="567" height="220" rx="15" fill="url(#grid)"/>
+<rect x="1" y="1" width="565" height="218" rx="14" fill="none" stroke="#41647f"/>
+<path d="M24 55 V24 H55 M512 196 H542 V166" stroke="#56d4f1" stroke-width="2" fill="none"/>
+<text x="27" y="40" fill="#7deafa" font-size="12" font-weight="700" letter-spacing="2.5">01 / XR ENGINEERING</text>
+<text x="27" y="99" fill="#f0f6ff" font-size="31" font-weight="800">MIXED REALITY</text>
+<text x="29" y="128" fill="#b8c8e3" font-size="15">Spatial systems + real-time interaction</text>
+<rect x="27" y="160" width="250" height="33" rx="8" fill="#11314b" stroke="#2f729a"/>
+<text x="42" y="181" fill="#7fe6fb" font-size="11.5" class="mono">C++   /   UE5   /   OpenXR</text>
+<circle cx="450" cy="120" r="93" fill="url(#halo)"/>
+<path d="M 450 145 L 335 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 367 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 399 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 431 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 463 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 495 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 450 145 L 527 208" stroke="#4687aa" stroke-opacity=".5"/>
+<path d="M 324 157 H 551" stroke="#4084b4" stroke-opacity=".27"/>
+<path d="M 324 169 H 551" stroke="#4084b4" stroke-opacity=".27"/>
+<path d="M 324 186 H 551" stroke="#4084b4" stroke-opacity=".27"/>
+<path d="M 324 206 H 551" stroke="#4084b4" stroke-opacity=".27"/>
+<path d="M396 78 L451 49 L505 80 L505 143 L451 175 L396 142 Z" fill="#122a4b" fill-opacity=".70" stroke="#6bdeff" stroke-width="2"/>
+<path d="M396 78 L451 112 L505 80 M451 112 V175 M451 112 L451 49" fill="none" stroke="#aa8dff" stroke-width="1.5" opacity=".8"/>
+<circle cx="451" cy="112" r="11" fill="none" stroke="#49dcf5"/><circle cx="451" cy="112" r="3.5" fill="#68f7fb"/>
+<path d="M518 59 H546 M518 65 H541" stroke="#b195fc" opacity=".75"/>
+</svg>

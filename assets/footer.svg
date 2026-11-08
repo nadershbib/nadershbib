@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="149" viewBox="0 0 1180 149" role="img" aria-label="Connect with Nader Shbib graphic">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08101f"/><stop offset="0.54" stop-color="#10182e"/><stop offset="1" stop-color="#17122d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#50e1ff"/><stop offset="0.5" stop-color="#7da0ff"/><stop offset="1" stop-color="#b67aff"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d8ff"/><stop offset="1" stop-color="#756bff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#488af8" stop-opacity="0.22"/><stop offset="1" stop-color="#488af8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#6784b5" stroke-opacity=".13" stroke-width="1"/></pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  <style><![CDATA[
+    text {font-family: Inter, 'Segoe UI', Arial, sans-serif;}
+    .mono {font-family: 'DejaVu Sans Mono', Consolas, monospace;}
+  ]]></style>
+</defs>
+<rect width="1180" height="149" rx="15" fill="url(#bg)"/>
+<rect width="1180" height="149" rx="15" fill="url(#grid)"/>
+<rect x="1" y="1" width="1178" height="147" rx="14" fill="none" stroke="#5267a1"/>
+<rect x="37" y="29" width="5" height="84" rx="2.5" fill="url(#accent)"/>
+<text x="62" y="64" font-size="31" font-weight="800" fill="#f4f7ff">LET'S BUILD WHAT'S NEXT.</text>
+<text x="62" y="100" font-size="16" fill="#b5c5dd">Open to software engineering, simulation, XR and systems opportunities.</text>
+<path d="M800 103 H1080 M828 85 H1040" stroke="#71bded" stroke-opacity=".3"/>
+<circle cx="1020" cy="62" r="37" fill="none" stroke="#7ba9ff" stroke-width="1.5"/>
+<circle cx="1020" cy="62" r="24" fill="none" stroke="#d59eff" stroke-width="1.5" stroke-dasharray="4 7"/>
+<path d="M990 62 H1050 M1020 32 V92" stroke="#66dff1" stroke-width="1.3"/>
+<circle cx="1020" cy="62" r="5" fill="#65e8ee"/>
+</svg>

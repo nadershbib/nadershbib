@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="567" height="220" viewBox="0 0 567 220" role="img" aria-label="Production web software engineering illustration">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08101f"/><stop offset="0.54" stop-color="#10182e"/><stop offset="1" stop-color="#17122d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#50e1ff"/><stop offset="0.5" stop-color="#7da0ff"/><stop offset="1" stop-color="#b67aff"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d8ff"/><stop offset="1" stop-color="#756bff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#488af8" stop-opacity="0.22"/><stop offset="1" stop-color="#488af8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#6784b5" stroke-opacity=".13" stroke-width="1"/></pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+  <style><![CDATA[
+    text {font-family: Inter, 'Segoe UI', Arial, sans-serif;}
+    .mono {font-family: 'DejaVu Sans Mono', Consolas, monospace;}
+  ]]></style>
+</defs>
+<rect width="567" height="220" rx="15" fill="url(#bg)"/>
+<rect width="567" height="220" rx="15" fill="url(#grid)"/>
+<rect x="1" y="1" width="565" height="218" rx="14" fill="none" stroke="#554a86"/>
+<path d="M24 55 V24 H55 M512 196 H542 V166" stroke="#bb80ff" stroke-width="2" fill="none"/>
+<text x="27" y="40" fill="#c09aff" font-size="12" font-weight="700" letter-spacing="2.5">02 / PRODUCT ENGINEERING</text>
+<text x="27" y="99" fill="#f0f6ff" font-size="31" font-weight="800">PRODUCTION WEB</text>
+<text x="29" y="128" fill="#b8c8e3" font-size="15">Interfaces + APIs + user experience</text>
+<rect x="27" y="160" width="252" height="33" rx="8" fill="#302247" stroke="#6b53a9"/>
+<text x="42" y="181" fill="#d9b7ff" font-size="11.5" class="mono">React  /  Next.js  /  REST</text>
+<circle cx="453" cy="116" r="94" fill="url(#halo)"/>
+<rect x="348" y="52" width="179" height="123" rx="10" fill="#121c36" stroke="#9b85e9" stroke-width="1.6"/>
+<rect x="348" y="52" width="179" height="21" rx="9" fill="#32294e"/>
+<circle cx="363" cy="62" r="3" fill="#f494ce"/><circle cx="375" cy="62" r="3" fill="#ffcc76"/><circle cx="387" cy="62" r="3" fill="#6fe3d0"/>
+<rect x="361" y="87" width="48" height="70" rx="5" fill="#273957" stroke="#607fa8"/>
+<path d="M373 103 H399 M373 115 H394 M373 127 H398 M373 139 H389" stroke="#75c5e8" stroke-width="3" opacity=".8"/>
+<rect x="420" y="88" width="92" height="22" rx="4" fill="#463266"/>
+<path d="M433 99 H497" stroke="#c3aaff" stroke-width="3"/>
+<path d="M420 124 H512 M420 135 H500 M420 146 H485" stroke="#679ac1" stroke-width="3" opacity=".75"/>
+<path d="M328 111 H348 M527 119 H552 M442 175 V197" stroke="#bc96ff" stroke-width="1.7" stroke-dasharray="4 5"/>
+</svg>
