@@ -33,7 +33,7 @@ I care about software that is **modular, testable, understandable, and useful**.
 </td>
 <td width="50%" valign="top">
   <img src="./assets/aimia-card.svg" alt="Aimia internship: production React, Next.js, and REST APIs" width="100%" />
-  <h3>Aimia.me · Front-End Engineering Intern</h3>
+ <h3><a href="https://aimia.me/" target="_blank">Aimia.me</a> · Front-End Engineering Intern</h3>
   <p><strong>Production software · React · Next.js</strong></p>
   <p>Built responsive application interfaces for an AI-powered career platform using <strong>React, Next.js, and Tailwind CSS</strong>. Integrated <strong>REST APIs</strong> into user-facing features and contributed to usability, cross-device behavior, and collaborative software delivery.</p>
   <p><strong>Engineering perspective:</strong> maintainable UI components, application integration, and shipping software for real users.</p>
